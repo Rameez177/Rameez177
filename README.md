@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Rameez177
-- 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning ReactJS 
+- 👀 I'm a Frontend web Develope
+- 🌱 I’m currently working on Vur JS
 - 💞️ I’m looking for good opportunity 
-- 📫 How to reach me: rameezkhanlodhi177@gmail.com
+- 📫 How to reach me: rameezlodhi.dev@gmail.com
 
 
 <!---
