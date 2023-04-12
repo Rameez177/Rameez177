@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rameez177
 - 👀 I'm a Frontend web Develope
-- 🌱 I’m currently working on Vur JS
-- 💞️ I’m looking for good opportunity 
+- 🌱 I’m currently working on Vue JS
+- 💞️ I’m also a freelancer
 - 📫 How to reach me: rameezlodhi.dev@gmail.com
 
 
